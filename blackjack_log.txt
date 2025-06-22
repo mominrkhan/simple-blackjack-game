@@ -1,0 +1,75 @@
+🎲 Welcome to Expert-Level Blackjack 🎲
+
+💰 Current balance: $100
+⚠️ Invalid input. Please enter a number.
+⚠️ Invalid input. Please enter a number.
+⚠️ Invalid input. Please enter a number.
+Your Hand:
+9♣ 10♥ = 19
+
+Dealer's Hand:
+[Hidden] 4♥
+
+Your Hand:
+9♣ 10♥ 7♣ = 26
+
+❌ You busted! You lose your bet.
+
+💰 Current balance: $95
+Your Hand:
+K♦ A♥ = 21
+
+Dealer's Hand:
+[Hidden] 2♥
+
+🎉 Blackjack! You win 1.5x your bet!
+
+💰 Current balance: $237
+Your Hand:
+A♦ 3♥ = 14
+
+Dealer's Hand:
+[Hidden] 10♠
+
+Your Hand:
+A♦ 3♥ 4♣ = 18
+
+Your Hand:
+A♦ 3♥ 4♣ 9♦ = 17
+
+Your Hand:
+A♦ 3♥ 4♣ 9♦ A♣ = 18
+
+Your Hand:
+A♦ 3♥ 4♣ 9♦ A♣ 4♦ = 22
+
+❌ You busted! You lose your bet.
+
+🏁 Final Balance: $0
+📊 Game Stats: Wins: 1 | Losses: 2 | Ties: 0
+📝 Session saved to blackjack_log.txt
+Thanks for playing!
+🎲 Welcome to Blackjack 🎲
+
+💰 Current balance: $100
+Your Hand:
+A♦ 7♠ = 18
+
+Dealer's Hand:
+[Hidden] 6♦
+
+Your Hand:
+A♦ 7♠ 6♠ = 14
+
+Your Hand:
+A♦ 7♠ 6♠ 5♥ = 19
+
+Your Hand:
+A♦ 7♠ 6♠ 5♥ 4♦ = 23
+
+❌ You busted! You lose your bet.
+
+🏁 Final Balance: $0
+📊 Game Stats: Wins: 0 | Losses: 1 | Ties: 0
+📝 Session saved to blackjack_log.txt
+Thanks for playing!
